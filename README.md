@@ -1,2 +1,2 @@
 # bootcamp_jay_question
-This is the tutorial for jay to learn about git and github
+This is the Folder for Bootcamp Student to learn about git and github
